@@ -1,0 +1,3 @@
+[submodule "sub-sub-sub"]
+	path = sub-sub-sub
+	url = https://github.com/Ziegurd/sub-sub-sub.git
